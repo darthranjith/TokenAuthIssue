@@ -1,0 +1,5 @@
+E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Data\bin\Debug\AuthSO.Data.dll
+E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Data\bin\Debug\AuthSO.Data.pdb
+E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Data\obj\Debug\AuthSO.Data.csprojResolveAssemblyReference.cache
+E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Data\obj\Debug\AuthSO.Data.dll
+E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Data\obj\Debug\AuthSO.Data.pdb
