@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AuthSO.Core.Interface
 {
-    public interface IAuthenticator
+    public interface IAuthenticator:IDisposable
     {
         bool Authenticate(string Username, string Password);
     }
