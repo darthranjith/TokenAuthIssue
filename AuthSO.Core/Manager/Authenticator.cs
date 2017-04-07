@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace AuthSO.Core.Manager
 {
-    public class Authenticator : IAuthenticator
+    public class Authenticator : IAuthenticator,IDisposable
     {
         public IGetData _get;
         public Authenticator(IGetData _get)
@@ -18,6 +18,10 @@ namespace AuthSO.Core.Manager
         public bool Authenticate(string Username, string Password)
         {
             return _get.Authenticate(Username, Password);
+        }
+
+        public void Dispose()
+        {
         }
     }
 }
