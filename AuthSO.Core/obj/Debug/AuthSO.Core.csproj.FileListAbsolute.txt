@@ -5,3 +5,10 @@ E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Core\bin\Debug\AuthSO.Data.pdb
 E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Core\obj\Debug\AuthSO.Core.csprojResolveAssemblyReference.cache
 E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Core\obj\Debug\AuthSO.Core.dll
 E:\PLAYGROUND\AuthSO\Solution1\AuthSO.Core\obj\Debug\AuthSO.Core.pdb
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\bin\Debug\AuthSO.Core.dll
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\bin\Debug\AuthSO.Core.pdb
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\bin\Debug\AuthSO.Data.dll
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\bin\Debug\AuthSO.Data.pdb
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\obj\Debug\AuthSO.Core.csprojResolveAssemblyReference.cache
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\obj\Debug\AuthSO.Core.dll
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.Core\obj\Debug\AuthSO.Core.pdb

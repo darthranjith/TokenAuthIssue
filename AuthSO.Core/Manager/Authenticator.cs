@@ -22,6 +22,7 @@ namespace AuthSO.Core.Manager
 
         public void Dispose()
         {
+            this.Dispose();
         }
     }
 }

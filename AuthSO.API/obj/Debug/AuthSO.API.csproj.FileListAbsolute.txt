@@ -79,3 +79,6 @@ E:\PLAYGROUND\AuthSO\Solution1\AuthSO.API\bin\Microsoft.AI.Web.xml
 E:\PLAYGROUND\AuthSO\Solution1\AuthSO.API\obj\Debug\AuthSO.API.csprojResolveAssemblyReference.cache
 E:\PLAYGROUND\AuthSO\Solution1\AuthSO.API\obj\Debug\AuthSO.API.dll
 E:\PLAYGROUND\AuthSO\Solution1\AuthSO.API\obj\Debug\AuthSO.API.pdb
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.API\obj\Debug\AuthSO.API.csprojResolveAssemblyReference.cache
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.API\obj\Debug\AuthSO.API.dll
+E:\PLAYGROUND\Repo\TokenAuthIssue\AuthSO.API\obj\Debug\AuthSO.API.pdb
